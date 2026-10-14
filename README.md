@@ -1,0 +1,1 @@
+Ovaj repozitorijum sadrži zadaću sa drugog časa.

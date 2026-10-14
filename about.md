@@ -1,6 +1,6 @@
 #O meni
 
-Moja interrresovanja:
+Moja interesovanja:
 
     - data analitika
     - kulinarstvo

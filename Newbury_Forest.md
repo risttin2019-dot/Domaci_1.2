@@ -17,7 +17,10 @@
 
 - *Newbury Forest* je bolje odigrao sezonu u gostima nego kod kuće
 
-| Lokacija    | Broj utakmica | Zaglavlje 3 | Zaglavlje 1 | Zaglavlje 2 | Zaglavlje 3 | Zaglavlje 2 | Zaglavlje 3 |
-| ----------- | -----------   | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Tekst 1     | Tekst 2       | Tekst 3     | ekst  1     | Tekst 2     | Tekst 3     | Tekst 2     | Tekst 3     |
-|  ekst 1     | Tekst 2       | Tekst 3     |  ekst 1     | Tekst 2     | Tekst 3     | Tekst 2     | Tekst 3     |
+| Lokacija    | Broj utakmica | Pobjede     | Izjednačenja | Porazi      | Postignuti golovi | Primljenji golovi | Bodovi      |
+| ----------- | -----------   | ----------- | -----------  | ----------- | -----------       | -----------       | ----------- |
+| Kod kuće    | 19            | 4           | 5            | 10          | 22                | 32                | 17          |
+| U gostima   | 19            | 7           | 4            | 8           | 25                | 36                | 25          |
+
+- Ukupno **42** boda u sezoni *2024/25*.
+

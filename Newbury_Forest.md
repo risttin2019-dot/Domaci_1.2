@@ -13,4 +13,11 @@
     + **Primljeni golovi:** 68
     + **Bodovi:** 42
 
-# 2. 
+## 2. Podaci o utakmicama na domaćem i gostujućem terenu
+
+- *Newbury Forest* je bolje odigrao sezonu u gostima nego kod kuće
+
+| Zaglavlje 1 | Zaglavlje 2 | Zaglavlje 3 |
+| ----------- | ----------- | ----------- |
+| Tekst 1     | Tekst 2     | Tekst 3     |
+| Tekst 4     | Tekst 5     | Tekst 6     |

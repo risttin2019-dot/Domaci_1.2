@@ -2,8 +2,8 @@
 
 ## 1. Sezona u brojkama
 
-- S obzirom da *Newbury Forest* nije igrao u ovoj ligi prošle sezone, treba pohvaliti njihov uspjeh za ulazak,
-  ali krajnji rezultat je loš. Tek 15. mjesto od ukupno 20 timova.
+S obzirom da *Newbury Forest* nije igrao u ovoj ligi prošle sezone, treba pohvaliti njihov uspjeh za ulazak,
+ali krajnji rezultat je loš. Tek 15. mjesto od ukupno 20 timova.
 
     + **Broj utakmica:** 38
     + **Pobjede:** 11
@@ -15,7 +15,7 @@
 
 ## 2. Podaci o utakmicama na domaćem i gostujućem terenu
 
-- *Newbury Forest* je bolje odigrao sezonu u gostima nego kod kuće
+*Newbury Forest* je bolje odigrao sezonu u gostima nego kod kuće
 
 | Lokacija    | Broj utakmica | Pobjede     | Izjednačenja | Porazi      | Postignuti golovi | Primljeni golovi  | Bodovi      |
 | ----------- | -----------   | ----------- | -----------  | ----------- | -----------       | -----------       | ----------- |
@@ -26,12 +26,15 @@
 
 ## 3. Strelci i asistencije
 
-- Najbolji strelac i najbolji asistent su izjednačeni po broju akcija.
+Najbolji strelac i najbolji asistent su izjednačeni po broju akcija.
 
     **TOP 3 strelaca:**
 
-    - **Harry Carter**	6
-    - **Théo Laurent**	5
-    - **Callum Walker**	4
+    - **Harry Carter**	6 golova
+    - **Théo Laurent**	5 golova
+    - **Callum Walker**	4 gola
 
-    Najbolji asistent: **Reece Carter**, sa 6 asistencija
+    - Najbolji asistent: **Reece Carter** sa 6 asistencija
+
+## 4. Disciplina
+

@@ -17,10 +17,21 @@
 
 - *Newbury Forest* je bolje odigrao sezonu u gostima nego kod kuće
 
-| Lokacija    | Broj utakmica | Pobjede     | Izjednačenja | Porazi      | Postignuti golovi | Primljenji golovi | Bodovi      |
+| Lokacija    | Broj utakmica | Pobjede     | Izjednačenja | Porazi      | Postignuti golovi | Primljeni golovi  | Bodovi      |
 | ----------- | -----------   | ----------- | -----------  | ----------- | -----------       | -----------       | ----------- |
 | Kod kuće    | 19            | 4           | 5            | 10          | 22                | 32                | 17          |
 | U gostima   | 19            | 7           | 4            | 8           | 25                | 36                | 25          |
 
 - Ukupno **42** boda u sezoni *2024/25*.
 
+## 3. Strelci i asistencije
+
+- Najbolji strelac i najbolji asistent su izjednačeni po broju akcija.
+
+    **TOP 3 strelaca:**
+
+    - **Harry Carter**	6
+    - **Théo Laurent**	5
+    - **Callum Walker**	4
+
+    Najbolji asistent: **Reece Carter**, sa 6 asistencija

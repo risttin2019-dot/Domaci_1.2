@@ -17,7 +17,7 @@
 
 - *Newbury Forest* je bolje odigrao sezonu u gostima nego kod kuće
 
-| Zaglavlje 1 | Zaglavlje 2 | Zaglavlje 3 |
-| ----------- | ----------- | ----------- |
-| Tekst 1     | Tekst 2     | Tekst 3     |
-| Tekst 4     | Tekst 5     | Tekst 6     |
+| Lokacija    | Broj utakmica | Zaglavlje 3 | Zaglavlje 1 | Zaglavlje 2 | Zaglavlje 3 | Zaglavlje 2 | Zaglavlje 3 |
+| ----------- | -----------   | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Tekst 1     | Tekst 2       | Tekst 3     | ekst  1     | Tekst 2     | Tekst 3     | Tekst 2     | Tekst 3     |
+|  ekst 1     | Tekst 2       | Tekst 3     |  ekst 1     | Tekst 2     | Tekst 3     | Tekst 2     | Tekst 3     |
